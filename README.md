@@ -6,9 +6,9 @@ NOTE:
      This is for demo purpose only and will not ask you to register
      or sign in.
      
-     
-<a href="https://www.youtube.com/watch?v=M576WGiDBdQ" target="_blank">
-<img src="./img/TrvelBlog.jpg" width="350" alt="Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial">
+<p>     
+<a href="https://travelblog.outdooroffgrid.com/" target="_blank">
+<img src="./img/TrvelBlog.jpg" width="100%" alt="WordPress-TravelBlog">
 </a>
 </p>
 
