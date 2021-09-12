@@ -6,4 +6,4 @@ NOTE:
      This is for demo purpose only and will not ask you to register
      or sign in.
      
-     ![Image of TravelBlog](TrvelBlog.jpg)
+     ![TravelBlog](TrvelBlog.jpg)
