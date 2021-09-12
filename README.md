@@ -8,9 +8,9 @@ NOTE:
      
      
 <a href="https://www.youtube.com/watch?v=M576WGiDBdQ" target="_blank">
-<img src="./img/youtube_thumbnail.jpeg" width="350" alt="Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial">
+<img src="./img/TrvelBlog.jpg" width="350" alt="Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial">
 </a>
 </p>
-<br/>
+
      
      ![TravelBlog](TrvelBlog.jpg)
