@@ -6,7 +6,7 @@ NOTE:
      This is for demo purpose only and will not ask you to register
      or sign in.
      
-     <p align="center">
+     
 <a href="https://www.youtube.com/watch?v=M576WGiDBdQ" target="_blank">
 <img src="./img/youtube_thumbnail.jpeg" width="350" alt="Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial">
 </a>
